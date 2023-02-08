@@ -1,0 +1,6 @@
+srm		guntur		35
+guntur		srm		30
+srm		vijayawada	40
+vijayawada	srm		35
+guntur		vijayawada		22
+vijayawada		guntur		25
